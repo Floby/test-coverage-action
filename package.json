@@ -11,8 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/Floby/test-coverage-action.git"
   },
-  "jest": {
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
