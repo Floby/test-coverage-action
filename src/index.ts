@@ -1,4 +1,7 @@
 module.exports = function (flag) {
+  if (flag) {
+    return false
+  }
   return true
 }
 
